@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="textview">" "</string>
+    <string name="co2label">"CO2"</string>
+    <string name="tvoclabel">"TVOC"</string>
+    <string name="optLabel1">"Use local connection"</string>
+    <string name="optLabel2">"Change dimmer IP"</string>
+</resources>

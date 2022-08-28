@@ -1,0 +1,3 @@
+rootProject.name = "MiniSmartHome"
+include ':app'
+include ':app:myapplication'
